@@ -1,2 +1,2 @@
-#!/ova/onfu
-rpub 'NFPVV' | ge 'A-Za-z''N-ZA-Mn-za-m'
+#!/bin/bash
+alias 'ASCII'="tr 'A-Za-z''N-ZA-Mn-za-m'"
